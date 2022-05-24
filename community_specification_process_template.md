@@ -197,7 +197,7 @@ Note:
  Note:
 > Specifications, especially important specifications, are subject to challenges from others. Having a well understood, well documented, and neutral process for their creation and approval demonstrates consistency in process and makes the challenges much more complicated for those who might try to make mischief in the future.
 
-#### Committees Team 
+#### Committees 
 
 * Each Steering Member will be represented in the in any of the Organization's Committees by one representative only. 
 
@@ -390,7 +390,7 @@ Note: Define Supermajority
 
 ## Approval Process
 <figure>
-	<img src="images/R_A-2.svg" alt="Review & Approval">
+	<img src="images/R_A-1.svg" alt="Review & Approval">
 	<figcaption>Review & Approval</figcaption>
 </figure>
 
@@ -423,15 +423,8 @@ The Review & Approval process implies that all the contributions need to be acce
     * If a sustained **objection** is received, the contribution cannot be merged, even if 3 or more contributors agreed with the contribution. 
     * If during the review period a contribution receives a **comment**, it is up to the group or maintainer to accept the comment or not. In any case, in order to merge the contribution at least 3 reviewers MUST indicate that they agree with the contribution.
 
-## [Organization_Abbreviation] Process Flows
 
-##### Epics
-* It could be a feature, customer request or business requirement
-* It is recommendable to define a list of Epics that will be formed the release package for the corresponding Work Package
-* The WG SHOULD define a placeholder for each Epic with few lines of description
-* The Epics can be broken down in user stories and tasks which are not defined in detail at the creation of the Work Package
-
-### Technical Specifications Life Cycle
+## Technical Specifications Life Cycle
 
 Note: from `[Organization_Abbreviation]` Scope & Governance
 ```
@@ -523,6 +516,8 @@ In this section the diagram below depictures the development phases of technical
 </figure>
 
 ### GitHub Access Rights
+The following access rights are recommended when allocating GitHub Teams to repositories:
+
 <table>
   <caption>GitHub Access Rights</caption>
   <thead>
