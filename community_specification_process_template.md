@@ -675,7 +675,7 @@ Also consider to:
 * keep these files in sync with the upstream project
 * ask the upstream project to insert the identifiers on their source code files / documents.
 
-### Organizatio Software License Policy
+### Organization Software License Policy
 This policy is intended to assist the Technical Working Groups to handle Software Licenses in their Projects.
 
 #### Recommended SafeGuards
