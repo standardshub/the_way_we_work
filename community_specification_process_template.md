@@ -277,10 +277,10 @@ A Working Group may select a new Editor or Editors upon Approval of the Working 
 
 ## Meetings
 * WGs are encouraged to schedule regular conference calls.
-* The Meetings MUST be announced at least, 7 days in advance for conference calls, and 1 month for face to face meetings.
-* All the Organization members are contractually bound to the IPR policy under terms of the Membership Application and these IPR Guidelines MUST be followed.
+* The Meetings MUST be announced at least sevent, (7) days in advance for conference calls, and one (1) month for face-to-face meetings.
+* All the Organization members are contractually bound to the IPR policy under terms of the Membership Application.
 * Meetings SHALL have an antitrust statement and an IPR call where a reminder of the IPR policy and the duties and obligations of members is provided.
-* A meeting attendee list MUST be produced for each meeting. This is necessary to determine which members can vote in a Supermajority vote if one is needed.
+* A meeting attendee list MUST be produced for each meeting. This list is necessary to determine which members can vote in a Supermajority vote if one is needed.
 
 ## Technical Decision Making
 ### Decision Making
@@ -309,14 +309,14 @@ Inspired by American National Standards Institute’s (ANSI) Essential Requireme
 3.6. Written procedures. This governance document and other materials documenting the Community Specification development process shall be available to any interested person.
 ```
 
-As part of their responsibilities defined in [Maintainers](#maintainers), Maintaniers need to ensure efficient and effective decision-making:
-* The decision making process in WGs is intended to be as inclusive as possible. 
+As part of their responsibilities defined in [Maintainers](#maintainers), Maintainiers need to ensure efficient and effective decision-making:
+* The decision-making process in WGs is intended to be as inclusive as possible. 
 * WGs SHALL attempt to use consensus to make decisions. 
 * If consensus cannot be reached, voting mechanisms MAY be used. 
 * Formal notice SHALL be given for decision making, e.g.:
-  * Inclusion of a document on an agenda, proposing a specific decision to be taken (e.g. Pull Request).
-  * Inclusion of an item directly in the agenda (e.g. proposed next meeting date).
-  * Items proposed for approval via the group mailing list (e.g. agreement a document revision).
+  * Inclusion of a document on the agenda, proposing a specific decision to be taken (e.g., Pull Request).
+  * Inclusion of an item directly in the agenda (e.g., proposed next meeting date).
+  * Items proposed for approval via the group mailing list (e.g., agreement a document revision).
   * Inclusion of a document for decision in an electronic Review and Approval event
   * Inclusion of a document for decision in an e-vote (Supermajority) vote.
  
@@ -324,7 +324,7 @@ As part of their responsibilities defined in [Maintainers](#maintainers), Mainta
 
 * There SHALL be no distinction in the decision-making merit of real-time or non-real-time meetings.
   * In real-time meetings, consensus can be determined by receiving no sustained objections to a proposal. 
-  * In non-real-time meetings, consensus SHOULD be developed using Review and Agreement periods, e.g. using [Review and Approval](#[Organization_Abbreviation]-approval-process)
+  * In non-real-time meetings, consensus SHOULD be developed using Review and Agreement periods, e.g., using [Review and Approval](#[Organization_Abbreviation]-approval-process)
 * Proposals SHALL be available for review for a given period, agreed by the Working Group
 
 
