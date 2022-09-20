@@ -329,24 +329,24 @@ As part of their responsibilities defined in [Maintainers](#maintainers), Mainta
 
 
 ### Seeking Consensus
-* Groups shall endeavour to reach consensus on all decisions. 
-* Informal methods of reaching consensus are encouraged (e.g. a show of hands).
-* Groups SHOULD attempt to ensure contributions relating to the same subject matter are considered together before being disposed. 
+* Groups SHALL endeavour to reach a consensus on all decisions. 
+* Informal methods of reaching consensus are encouraged (e.g., a show of hands).
+* Groups SHOULD attempt to ensure contributions relating to the same subject matter are considered together before being reviewed. 
 * However the Maintainer SHALL ensure that progress is not delayed by unavailable contributions or participants.
 * Agreement SHALL be sought in all forms of meeting.
-* Objections from a small minority SHOULD be minuted and the objecting delegates SHOULD be questioned if having their objections minuted is sufficient and they agree to not sustain their objections. 
-  * If such agreements are secured, then there is consensus for approving the proposal. 
-  * If such agreements are not secured, then the proposal is not agreed and further action SHALL be taken (e.g. the proposal is withdrawn, updated, or voted on). 
-  * Members are discouraged from sustaining their objections when it is clear that they would be overruled by a vote were one to take place.
+* Objections from a small minority SHOULD be minuted, and the objecting delegates SHOULD be questioned if having their objections minuted is sufficient, and they agree not to sustain their objections. 
+  * If such agreements are secured, there is a consensus for approving the proposal. 
+  * If such agreements are not secured, then the proposal is not agreed upon, and further action SHALL be taken (e.g., the proposal is withdrawn, updated, or voted on). 
+  * Members are discouraged from sustaining their objections when it is clear that a vote will override them.
 * In real-time meetings, consensus can be determined by receiving no sustained objections to a proposal.
   * Efforts to immediately resolve or record objections can be taken to attempt to achieve consensus.
 * Where attendance is sparse when viewed from normal participation levels, potentially controversial proposals SHOULD be made available to the broader membership. 
-* The Maintainer is responsible for ensuring such opportunity for participation in the decision making process. 
+* The Maintainer is responsible for ensuring such opportunity for participation in the decision-making process. 
 * Sparsely attended meetings SHOULD NOT be used to drive through proposals that would not have broad support.
 * Following a decision-making meeting, a summary of decisions and document dispositions SHALL be published as soon as is practical. 
   * This will be addressed if the meeting minutes are available in a timely fashion.
 * When there is insufficient time for review in a real-time meeting, non-real-time consensus approaches SHOULD be considered.  
-* In non-real time meetings consensus SHOULD be developed by using [Review and Approval](#[Organization_Abbreviation]-approval-process) periods.
+* In non-real-time meetings, consensus SHOULD be developed by using [Review and Approval](#[Organization_Abbreviation]-approval-process) periods.
   * Using the group mailing list
   * Using GitHub "Review and Approval" label
 * Proposals SHALL be available for a [given period]().
@@ -394,7 +394,7 @@ Note: Define Supermajority
 	<figcaption>Review & Approval</figcaption>
 </figure>
 
-In the Standards Development Organizations (SDOs) the approval or rejection of a contribution follows a democratic process; **the majority**. This differs from an Open Source organization that normally follows a meritocratic process where the Maintainer decides what to accept of reject. If a person doesn’t like the decision that her contribution is rejected, then she can “fork” the project.
+In the Standards Development Organizations (SDOs) the approval or rejection of a contribution follows a democratic process; **the majority**. This differs from an Open Source organization that normally follows a meritocratic process where the Maintainer decides what to accept or reject. If a person doesn’t like the decision that her contribution is rejected, then she can “fork” the project.
 
 The goal for an SDO is to reach interoperability, therefore “forking” is not the solution to a technical dispute. If a contribution receives an  objection, and this objection is not withdrawn (sustained), then the resolution wether the contribution is accepted or not SHOULD be resolved via a Working Group vote.
 
