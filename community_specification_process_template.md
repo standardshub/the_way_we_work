@@ -394,34 +394,33 @@ Note: Define Supermajority
 	<figcaption>Review & Approval</figcaption>
 </figure>
 
-In the Standards Development Organizations (SDOs) the approval or rejection of a contribution follows a democratic process; **the majority**. This differs from an Open Source organization that normally follows a meritocratic process where the Maintainer decides what to accept or reject. If a person doesn’t like the decision that her contribution is rejected, then she can “fork” the project.
+In Standards Development Organizations (SDOs), the approval or rejection of a contribution follows a democratic process; **the majority**. This process differs from an Open Source organization, which usually follows a meritocratic process where the Maintainer decides what to accept or reject. If a person doesn’t like the decision that her contribution is rejected, she can `fork` the project.
 
-The goal for an SDO is to reach interoperability, therefore “forking” is not the solution to a technical dispute. If a contribution receives an  objection, and this objection is not withdrawn (sustained), then the resolution wether the contribution is accepted or not SHOULD be resolved via a Working Group vote.
+The goal for an SDO is to reach interoperability. Therefore `forking` is not the solution to a technical dispute. Suppose a contribution receives an  objection, which is not withdrawn (sustained objection). In this case, the objection SHOULD be resolved via a Working Group vote.
 
-Voting in a Standards Orgaization is highly discouraged. It should be a rare event as voting on technical issues produces tension in the Working Groups.
-
-The Review & Approval process implies that all the contributions need to be accepted by the Working Group and there is no a sustained objection.
-
+Voting in a Standards Organization to resolve technical issues is highly discouraged. It should be a rare event as voting on technical matters produces tension in the Working Groups.
 
 ### Review & Approval Process
+The Review & Approval process implies that the Working Group SHOULD seek agreement on its technical-decision-making.
+
 * **Review period**:
-    * Period of time during which the contribution will be under review before being merged.
+    * Period when the contribution is reviewed before being accepted.
       * The period can be: 0, 1, 2, 3, 5, 7, 14 days
-      * 0 days imply that the contribution is merged without Working Group review
+      * 0 days imply that the contribution is merged without a Working Group review
 
 * **Comments or Objections**:
     * During the Review & Approval process members MAY raise **comments** or **objections**.
-      * **Comments** MUST be taken in consideration by the Working Group, but they MAY be dismissed if they group thinks that are not relevant.
+      * **Comments** the Working Groups MUST consider the comments, but they MAY be dismissed if they group thinks that are irrelevant.
 
-      * **Objections** MUST be taken in consideration and they cannot be dismissed by the Working Group without being reviewed. 
-      * If a contribution receives an **objection** the group MUST resolve the issue, with the person that raise the objection, before deciding the status of the contribution. If the **objection** is sustained, meaning the person doesn’t remove it, then the group will have to recur to a [vote]() to resolve it.
+      * **Objections** MUST be taken into consideration, and the Working Group cannot dismiss them without being reviewed. 
+      * If a contribution receives an **objection**, the Working Group MUST resolve the issue with the person who raises the objection before deciding the contribution status. 
+      * If the **objection** is sustained, meaning the person doesn’t remove it, the group will have to recur to a vote to resolve it.
 
 * **Approval Criteria**:
-    * A contribution is considered **approved** and therefore it can be merged if:
-      * The contribution has not received any sustainable **bjection** during the review period, AND
-      * At least 3 reviewers have indicated that they agree with the contribution
-    * If a sustained **objection** is received, the contribution cannot be merged, even if 3 or more contributors agreed with the contribution. 
-    * If during the review period a contribution receives a **comment**, it is up to the group or maintainer to accept the comment or not. In any case, in order to merge the contribution at least 3 reviewers MUST indicate that they agree with the contribution.
+    * A contribution is considered **Approved** and therefore it can be merged if:
+      * The contribution has not received any sustainable **objection** during the review period, AND at least three (3) reviewers have indicated that they agree with the contribution
+    * If a sustained **objection** is received, the contribution cannot be merged, even if thee (3) or more contributors agreed with the contribution. 
+    * If during the review period a contribution receives a **comment**, it is up to the group or maintainer to accept the comment or not. To merge the contribution, at least three (3) reviewers MUST indicate that they agree with the contribution.
 
 
 ## Technical Specifications Life Cycle
