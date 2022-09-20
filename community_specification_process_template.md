@@ -1,4 +1,4 @@
-## Community Specifications Process Template
+## Organization Process Template
 The scope of this document is to define a set of basic operations and processes that can be used by Standards Organizations.
 
 
