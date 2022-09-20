@@ -116,7 +116,7 @@ Every term used in the document should be defined in this section.
   </tr>	
   <tr>
     <td>IPR</td>
-    <td>Intelectual Property Rights</td>
+    <td>Intellectual Property Rights</td>
   </tr>	
   <tr>
     <td>WG</td>
@@ -583,7 +583,7 @@ The following access rights are recommended when allocating GitHub Teams to repo
   </tbody>
 </table>
 
-## Intelectual Property Rights
+## Intellectual Property Rights
 
 ### Copyright
 This section provides a recommendation based on the best practice implemented by other projects.
