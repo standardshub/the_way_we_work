@@ -166,7 +166,10 @@ Every term used in the document should be defined in this section.
 
 ### Organization Structure
 
-<img width="298" alt="image" src="https://user-images.githubusercontent.com/3258579/158926136-cf301d00-e072-4d38-91b3-c22f6584aa39.png">
+<figure>
+	<img src="images/organigram.drawio.svg" alt="Organization Organigram">
+	<figcaption>Organization Organigram</figcaption>
+</figure>
 
 Note:
 > The technical Working Groups are open to all the Organization members.
