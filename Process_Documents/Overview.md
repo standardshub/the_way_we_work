@@ -2,34 +2,56 @@
 This document provides process guidelines based on best practice and practical implementations.
 
 ### Introducion
-This process is also called **The Way We Work** and contains the following documents:
+This section provides a practical step by step guide on how to customize your Organization Process template in the [`Organization Operational Process`](Organization_Operational_Process.md)
 
-**[`Rules of Engagement`](./Rules_of_Engagement.md)**
+* The preparation and approval of the Organization process is important to create a culture of openness, collaboration and a sense of forming a community.
+* We recommend to follow up the following steps:
 
-This is a brief summary for each section:
+[Governance](/Organization_Operational_Process.md#governance)
 
-* **[Organization Governance](./Rules_of_Engagement.md#governance)**
-The Organization is headed by the [Steering Committee](./Rules_of_Engagement.md#steering-committee), which is formed by the members from the [Steering Members](https://open-manufacturing.org/). The [Steering Committee](./Rules_of_Engagement.md#steering-committee) meets once a `week, biweekly, monthly` deals with the day to day activities to the Organizaton.
-The [Marketing Team](./Rules_of_Engagement.md#marketing-team) is also formed by representatives from the Steering Members, it meets once a `week, biweekly, monthly` to discuss Marketing related topics.
+> Note: Create a simple organigram of the Organization, listing:
 
-* **[Membership Benefits](./Rules_of_Engagement.md#membership-benefits)**
+  * The Technical Steering Committee, (TSC)
+  * Committees Team created by the TSC
+  * The Working Group(s), (WGs), and its Sub-Working Group(s), (TSC), (if any)
 
-This section provides a detailed list of benefits for each Membership level.
+> Then, complete the function and meeting cadence for the groups listed in the diagram:
 
-Companies that want to participate in a particular Working Group are required to sign the corresponding Working Group Charter. The current `[Organization_Name]` Working Group Charters are:
+  * The [Technical Steering Committee](./Organization_Operational_Process.md#steering-committee):
+    * it is formed by the [Steering Members](). 
+    * it meets `week, biweekly, monthly` 
+    * it deals with the day to day activities to the Organizaton.
+  
+  * The [Marketing Team](./Organization_Operational_Process.md#marketing-team)
+    * it is also formed by representatives from the Steering Members, 
+    * it meets once a `week, biweekly, monthly` 
+    * it discuss Marketing related topics.
 
-  * [Working Group I Charter]()
-  * [Working Group II Charter]()
-  * [Working Group III Charter]()
-  * [Working Group IV Charter]()
+  * Other [Committee Team Name]()
+    * it is formed by ...
+    * it meets once a `week, biweekly, monthly` 
+    * it is dedicated to ...
 
-* **[[Organization_Name] Roles](./Rules_of_Engagement.md#what-to-expect-from-the-organizataion-roles)**
+  * [Working and Sub Working Groups]()
+    * Companies that want to participate in the Working Group(s) need to be a member of the Organization
+      * Apply [here]() for Membership
+      * [Membership Benefits](/Organization_Operational_Process#membership-benefits). This section provides a detailed list of benefits for each Membership type.
 
-This section provides a description of what tasks and behaviour is expected by the different roles in the organization: chairs and vice-chairs, editor, mainteners, administrators and members in general.
+> Next steip is to define the Organization roles
 
-* **[Work Package](./Rules_of_Engagement.md#work-packages)** describes the scope of the work and expected deliverables. It must be ratified by the **[Steering Committee](./Rules_of_Engagement.md#steering-committee)** and it is assigned to a Working Group.
+* **[Organization Roles](./Organization_Operational_Process.md#organizataion-roles)**
 
-* **[Technical Specifications Development](./Rules_of_Engagement.md#approval-process)**
+This section provides a description of what tasks and behaviour is expected by the different roles in the organization: 
+  
+  * [Maintainers/Chairs](),
+  * [Editors](), and
+  * [Participants]().
+
+* **[Work Package](./Organization_Operational_Process.md#work-packages)**
+It is recommended that each Working Group creates a Work Package, which describes the scope of the work and expected deliverables.
+The Work Package SHOULD be ratified by the [Steering Committee](./Organization_Operational_Process.md#steering-committee) and assigned to a Working Group.
+
+* **[Technical Specifications Development](./Organization_Operational_Process.md#approval-process)**
 
 This section suggest on how the Working Groups can approve Pull Requests; the final process is decided by each Working Group. The process is described in the **`CONTRIBUTING.md`** file available on each repository. In any case, this section recommends to follow the guidelines described in the **[Review & Approval Process](./Rules_of_Engagement.md#[Organization_Name]-approval-process)**
 
